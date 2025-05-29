@@ -17,7 +17,7 @@ export default function Home() {
               Черемховский чемпионат по сметному делу
             </h1>
             <p className="text-xl text-gray-700 mb-8 max-w-2xl animate-fadeIn delay-100">
-              Добро пожаловать на официальный сайт регионального этапа Всероссийского чемпионата профессионального мастерства по стандартам <span className="font-bold text-blue-700">WorldSkills Russia</span> в компетенции «Сметное дело» в городе <b>Черемхово</b>!
+              Добро пожаловать на официальный сайт регионального этапа Всероссийского чемпионата профессионального мастерства по стандартам <span className="font-bold text-blue-700">Профессионалы Россия</span> в компетенции «Сметное дело» в городе <b>Черемхово</b>!
             </p>
             <a
               href="/anketa"
@@ -40,17 +40,17 @@ export default function Home() {
         {/* Фичи: 3 блока о чемпионате */}
         <section className="w-full grid grid-cols-1 md:grid-cols-3 gap-10 mb-8">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col items-center border-t-4 border-green-300 hover:scale-105 transition-transform duration-200">
-            <img src="/81b6b2c4-6a34-4158-832e-4f205402aecc.png" alt="WorldSkills" className="h-20 mb-4" />
-            <h3 className="font-bold text-blue-700 text-xl mb-2">WorldSkills Россия</h3>
+            <img src="/81b6b2c4-6a34-4158-832e-4f205402aecc.png" alt="WorldSkills" className="h-120 mb-4" />
+            <h3 className="font-bold text-blue-700 text-xl mb-2">Профессионалы Россия</h3>
             <p className="text-gray-600 text-center text-lg">Чемпионат по мировым стандартам. Конкурсанты получают уникальный опыт и признание.</p>
           </div>
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col items-center border-t-4 border-blue-300 hover:scale-105 transition-transform duration-200">
-            <img src="/9e2aeada-2ca7-48e7-bfd6-53c099d87420.png" alt="Участники" className="h-20 mb-4" />
+            <img src="/9e2aeada-2ca7-48e7-bfd6-53c099d87420.png" alt="Участники" className="h-70 mb-4" />
             <h3 className="font-bold text-blue-700 text-xl mb-2">Кто участвует?</h3>
             <p className="text-gray-600 text-center text-lg">Студенты, молодые специалисты и преподаватели Иркутской области и других регионов.</p>
           </div>
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col items-center border-t-4 border-yellow-300 hover:scale-105 transition-transform duration-200">
-            <img src="/227aa89b-32c6-444f-b827-5ef37c8a8129.png" alt="Сметное дело" className="h-20 mb-4" />
+            <img src="/227aa89b-32c6-444f-b827-5ef37c8a8129.png" alt="Сметное дело" className="h-120 mb-4" />
             <h3 className="font-bold text-blue-700 text-xl mb-2">Сметное дело</h3>
             <p className="text-gray-600 text-center text-lg">Современные технологии и лучшие решения в области составления смет и оптимизации строительства.</p>
           </div>
@@ -65,7 +65,7 @@ export default function Home() {
           <ul className="list-disc list-inside mb-2 text-blue-700 text-lg space-y-2">
             <li>Выявление и поддержка талантливых студентов</li>
             <li>Повышение престижа строительных специальностей</li>
-            <li>Уникальные стандарты WorldSkills</li>
+            <li>Уникальные стандарты "Профессионалы России"</li>
             <li>Профессиональный рост и новые знакомства</li>
           </ul>
         </section>
@@ -84,9 +84,9 @@ export default function Home() {
                 Организатор и поддержка чемпионата, развитие строительных специальностей в регионе.
               </li>
               <li>
-                <span className="font-semibold text-blue-700">WorldSkills Russia</span><br />
-                Международные стандарты и признание дипломов участников.
-              </li>
+		<span className="font-semibold text-blue-700">Профессионалы Россия</span><br />
+  		Всероссийское движение, поддерживающее профессиональный рост участников, интеграцию в международное профессиональное сообщество и развитие стандартов качества.
+		</li>
               <li>
                 <span className="font-semibold text-blue-700">ГРАНД-Смета</span><br />
                 Официальное программное обеспечение чемпионата, обучение современным технологиям.
