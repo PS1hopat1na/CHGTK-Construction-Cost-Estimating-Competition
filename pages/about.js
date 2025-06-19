@@ -8,7 +8,7 @@ export default function About() {
         <h1 className="text-3xl font-bold text-blue-800 mb-6">О нас</h1>
         <p className="mb-4 text-gray-700">
           <b>Организатор чемпионата:</b> <br />
-          <b>Черемховский горнотехнический колледж имени П.А. Василевского</b>
+          <b>Черемховский горнотехнический колледж имени М.И, Щадова</b>
           <br />
           <br />
           <b>Адрес:</b> Иркутская область, г. Черемхово, ул. Ленина, 26 <br />
@@ -20,7 +20,7 @@ export default function About() {
         <ul className="mb-4 text-gray-700">
           <li><b>Директор:</b> Сычев Сергей Николаевич</li>
           <li><b>Ответственный за чемпионат:</b> Чемезов Станислав Александрович</li>
-          <li><b>Телеграм:</b> <a href="https://t.me/chgtk" className="text-blue-600 underline">@chgtk</a></li>
+          <li><b>Телеграм:</b> <a href="https://Telegram: View @chgtk_official" className="text-blue-600 underline">@chgtk</a></li>
           <li><b>Город:</b> Черемхово, Иркутская область</li>
           <li><b>Страна:</b> Россия</li>
         </ul>
