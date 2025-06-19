@@ -20,7 +20,7 @@ export default function About() {
         <ul className="mb-4 text-gray-700">
           <li><b>Директор:</b> Сычев Сергей Николаевич</li>
           <li><b>Ответственный за чемпионат:</b> Чемезов Станислав Александрович</li>
-          <li><b>Телеграм:</b> <a href="https://@chgtk_official" className="text-blue-600 underline">@chgtk_official</a></li>
+          <li><b>Телеграм:</b> <a href="https://Telegram: View @chgtk_official" className="text-blue-600 underline">Telegram: View @chgtk_official</a></li>
           <li><b>Город:</b> Черемхово, Иркутская область</li>
           <li><b>Страна:</b> Россия</li>
         </ul>
